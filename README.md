@@ -1,12 +1,11 @@
 ![Screenshot](screenshots/mac.png)
 
-# OmniFocus 2 Perspective Icons
+# OmniFocus Perspective Icons
 
 **Note: This requires the Professional version of OmniFocus 2 for Mac**
 
 All of the production-ready icons are all in the `dist` folder.  The `src` folder contains PSDs and vector artwork for all of the icons.
 
-**[Download the Icons](https://github.com/nitr8/omnifocus-perspective-icons/archive/master.zip)**
 
 ## For Mac
 
